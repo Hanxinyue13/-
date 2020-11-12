@@ -37,6 +37,41 @@ public interface Student {
 ## 核心方法  
 例：
 ```
+ public void search(String n) {
+			 if(n.equals(name)) {
+				 System.out.println("本月工资："+fee);
+			 }else {
+				 System.out.println("查无此人！");
+			 }
+		 }
+```  
+```  
+package jkcx;
+
+public interface Student {
+	public void setPay(double p); //设置学生每学期的学费
+	public double getPay(); //获取学生每学期的学费
+	public void setName(String name);
+	public String getName();	
+}
+
+```  
+```  
+ if(tea1.getFee()>5000 && tea1.getFee()<=20000) {
+		 double sk =tea1.getFee()*0.20;
+		 double ns =tea1.getFee()*12*0.20;
+		 System.out.println("每月需缴纳税款："+sk+"      每年需缴纳税款："+ns);
+		 double ysd = tea1.getFee()-sk;
+		 double nsd = 12*(tea1.getFee()-sk);
+		 System.out.println("每月所得实际薪酬："+ysd+"      每年所得实际薪酬："+nsd);
+		 }
+		 else {
+		 double sk=0;
+	     System.out.println("无需缴纳税款");
+		 double ysd = tea1.getFee()-sk;
+		 double nsd = 12*(tea1.getFee()-sk);
+		 System.out.println("每月所得实际薪酬："+ysd+"      每年所得实际薪酬："+nsd);
+		 }
 ```  
 ## 实验结果  
 ![](https://github.com/Hanxinyue13/-/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C1.PNG)
