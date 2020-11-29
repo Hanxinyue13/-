@@ -74,7 +74,13 @@ public interface Student {
 		 }
 ```  
 ## 实验结果  
-![](https://github.com/Hanxinyue13/-/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C1.PNG)
-![](https://github.com/Hanxinyue13/-/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C2.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/Gs%E7%BB%93%E6%9E%9C.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/Student.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/Text1.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/Text2.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/Text%E7%BB%93%E6%9E%9C1.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/Text%E7%BB%93%E6%9E%9C2%EF%BC%88xsxx%E6%96%87%E4%BB%B6%EF%BC%89.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/gs.PNG)
+![](https://github.com/Hanxinyue13/zuoyexitong/blob/main/ygstxt%E6%96%87%E4%BB%B6.PNG)
 ## 实验感想  
 本次实验的实验点很多，覆盖了很多的知识点并且对之前的内容也做了复习。  
